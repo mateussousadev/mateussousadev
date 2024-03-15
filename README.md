@@ -23,10 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="color:"  />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-
-          
+  <img width="32" height="32" src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="github"/>
 </div>
 
 <h3 align="left">:bust_in_silhouette: Social Midia</h3>
