@@ -4,8 +4,8 @@
 <h3 align="left">:ghost: About me</h3>
 
 
-- 💻 I’m currently working on <a href="https://escritha.com/"  target="_blank"> **Escritha**</a>
--  🌱 I’m currently learning **Laravel and Angular**
+- 💻 I’m currently working on <a href="https://app.cajutec.com.br/"  target="_blank"> **Caju TEC**</a>
+-  🌱 I’m currently learning **Laravel and VueJS**
 
 <h3 align="left">:hammer: Language and tools</h3>
 <div align="left">
