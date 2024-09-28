@@ -33,7 +33,7 @@
 
 <h3 align="left">:bust_in_silhouette: Social Midia</h3>
 <div align="left">
-  <a href="https://www.instagram.com/mateussousa.js/" target="_blank">
+  <a href="https://www.instagram.com/mateussousa.ts/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:sousamateusdev@gmail.com" target="_blank">
